@@ -21,6 +21,7 @@ public class Main {
         String fullName = lastName + " " + firstName + " " + middleName;
 
         System.out.println("Данные ФИО сотрудника для заполнения отчета " + fullName.toUpperCase());
+
     }
     private static void task3() {
         String firstName = "Семён";
